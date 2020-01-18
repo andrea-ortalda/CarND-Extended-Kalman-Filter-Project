@@ -3,8 +3,9 @@
 
 #include "Eigen/Dense"
 
-class KalmanFilter {
- public:
+class KalmanFilter
+{
+public:
   /**
    * Constructor
    */
