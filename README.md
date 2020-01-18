@@ -7,7 +7,7 @@
 [video0]: ./video.gif "Final video"
 
 <p align="center">
-	<img src="/write_up_images/video.gif" alt="Video Output"
+	<img src="/video.gif" alt="Video Output"
 	title="Video Output"  />
 </p>
 
